@@ -1,6 +1,6 @@
 /******************************
 脚本功能：可拍解锁永久会员
-https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bdcloud.js
+https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body https://raw.githubusercontent.com/KCH9231/jiaoben/main/baiduyun.js
 
 hostname = pan.baidu.com
 *******************************/

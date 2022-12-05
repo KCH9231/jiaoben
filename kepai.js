@@ -13,7 +13,7 @@
 
 [rewrite_local]
 # > 可拍解锁永久会员
-^https?:\/\/fxshot-api\.afunapp\.com\/order_api\/apple_query$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/WeShotVideoVipCrack.js
+^https?:\/\/fxshot-api\.afunapp\.com\/order_api\/apple_query$ url script-response-body https://raw.githubusercontent.com/KCH9231/jiaoben/main/kepai.js
 
 [mitm] 
 hostname = fxshot-api.afunapp.com

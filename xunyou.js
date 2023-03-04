@@ -13,7 +13,7 @@
 
 [rewrite_local]
 
-^https:\/\/api\.xunyou\.mobi\/api\/v1\/android\/sessions url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xyjsq.js
+^https:\/\/api\.xunyou\.mobi\/api\/v1\/android\/sessions url script-response-body https://raw.githubusercontent.com/KCH9231/jiaoben/main/xunyou.js
 
 [mitm] 
 hostname = api.xunyou.mobi
